@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BUSINESS NAME</title>
+</head>
+<body>
+<h1>BUSINESS NAME</h1>
+
+<div id="introduction">
+
+<h2>ABOUT US</h2>
+
+<p>Welcome to <em>Stellar Solutions</em>, where innovation meets excellence. We specialize in delivering top-notch digital services tailored to your business needs, ensuring you stay ahead in today's competitive market.<br><br><video src="https://videos.pexels.com/video-files/19408915/19408915-hd_1920_1080_30fps.mp4" width="520" height="280" controls>Video not supported</video><br><br><strong>Partner with us for creative solutions that drive success.</strong></p>
+
+<h3>IMPORTANT FACTS</h3>
+<ul>
+<li>Stellar Solutions was founded in 2022.</li>
+<li>We are present in 88 countries.</li>
+<li>More than 200,000 products shipped.</li>
+</ul>
+
+<h3>How to be one of us</h3>
+<ol>
+<li>Go to stellarsolutions.com</li>
+<li>Scroll down to the bottom of the site and find the "Be a Stellar" tab, click on it.</li>
+<li>Fill the form and hit "submit," you will receive a copy of your answers in your email.</li>
+<li>Wait for 3-5 business days while we process your request, and be very attentive to your email as we will send important information there.</li>
+</ol>
+
+<img src="https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg" width="520" height="280" alt="people talking on a table in a corporative setting"/>
+
+<br><br><a href="https://stellarsolutions.com/" target="_blank">Learn More About Us</a>
+
+</div>
+</body>
+</html>
